@@ -1,0 +1,22 @@
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.exe
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.deps.json
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.runtimeconfig.json
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.runtimeconfig.dev.json
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\ACII convertor.pdb
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.csproj.AssemblyReference.cache
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.AssemblyInfoInputs.cache
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.AssemblyInfo.cs
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.csproj.CopyComplete
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\refint\ACII convertor.dll
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.pdb
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ACII convertor.genruntimeconfig.cache
+D:\C#\ConsoleProjects\ACII convertor\ACII convertor\obj\Debug\net5.0\ref\ACII convertor.dll

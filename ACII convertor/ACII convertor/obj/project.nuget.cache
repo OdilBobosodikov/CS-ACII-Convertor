@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SriTyuYBKVO1hqYlopbC/YUj7MtjAF37J3IslFLEi9ZZFMmgNK2zhZjpyJEBjHmiD+OUBD11ZolCqp/O9fxL+g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\ConsoleProjects\\ACII convertor\\ACII convertor\\ACII convertor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shukrullo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shukrullo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
